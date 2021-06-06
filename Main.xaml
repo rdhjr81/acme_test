@@ -97,7 +97,7 @@
         <scg:Dictionary x:TypeArguments="x:String, Argument" />
       </ui:InvokeWorkflowFile.Arguments>
     </ui:InvokeWorkflowFile>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="497,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;login successful&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="497,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;login successful mate &quot;]" />
     <Switch x:TypeArguments="x:String" DisplayName="Switch" Expression="[selection]" sap:VirtualizedContainerService.HintSize="497,160" sap2010:WorkflowViewState.IdRef="Switch`1_1">
       <Switch.Default>
         <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;|&quot;+selection+&quot;|&quot;]" />
